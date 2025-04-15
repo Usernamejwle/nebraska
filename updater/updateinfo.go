@@ -84,4 +84,4 @@ func (u *UpdateInfo) Package() *omaha.Package {
 // OmahaReponse returns the raw omaha response.
 func (u *UpdateInfo) OmahaResponse() *omaha.Response {
 	return u.omahaResponse
-}
+}jullianwells update 
